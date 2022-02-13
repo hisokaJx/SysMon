@@ -18,7 +18,9 @@ using std::vector;
 Processor& System::Cpu() { return cpu_; }
 
 // TODO: Return a container composed of the system's processes
-vector<Process>& System::Processes() { return processes_; }
+vector<Process>& System::Processes() {
+    return processes_;
+}
 
 // TODO: Return the number of processes actively running on the system
 int System::RunningProcesses() { return 0; }
