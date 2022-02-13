@@ -20,6 +20,7 @@ public:
 
 // TODO: Declare any necessary private members
 private:
+
     int pid_;
     string user_;
     string cmd_;
