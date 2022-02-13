@@ -1,7 +1,6 @@
 CMakeFiles/monitor.dir/src/main.cpp.o: \
- /home/james/CppND-System-Monitor-Project-Updated-JT/src/main.cpp \
- /usr/include/stdc-predef.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/ncurses_display.h \
+ /home/james/Documents/SysMon/src/main.cpp /usr/include/stdc-predef.h \
+ /home/james/Documents/SysMon/include/ncurses_display.h \
  /usr/include/curses.h /usr/include/ncurses_dll.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -34,8 +33,7 @@ CMakeFiles/monitor.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
- /usr/include/unctrl.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/process.h \
+ /usr/include/unctrl.h /home/james/Documents/SysMon/include/process.h \
  /usr/include/c++/9/string \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -126,14 +124,14 @@ CMakeFiles/monitor.dir/src/main.cpp.o: \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/basic_string.tcc \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/system.h \
- /usr/include/c++/9/vector /usr/include/c++/9/bits/stl_construct.h \
+ /home/james/Documents/SysMon/include/system.h /usr/include/c++/9/vector \
+ /usr/include/c++/9/bits/stl_construct.h \
  /usr/include/c++/9/bits/stl_uninitialized.h /usr/include/c++/9/utility \
  /usr/include/c++/9/bits/stl_relops.h \
  /usr/include/c++/9/bits/stl_vector.h \
  /usr/include/c++/9/bits/stl_bvector.h /usr/include/c++/9/bits/vector.tcc \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/processor.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/linux_parser.h \
+ /home/james/Documents/SysMon/include/processor.h \
+ /home/james/Documents/SysMon/include/linux_parser.h \
  /usr/include/c++/9/fstream /usr/include/c++/9/istream \
  /usr/include/c++/9/ios /usr/include/c++/9/bits/ios_base.h \
  /usr/include/c++/9/bits/locale_classes.h \
@@ -213,4 +211,4 @@ CMakeFiles/monitor.dir/src/main.cpp.o: \
  /usr/include/c++/9/bits/parse_numbers.h \
  /usr/include/c++/9/bits/std_mutex.h \
  /usr/include/c++/9/bits/unique_lock.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/system.h
+ /home/james/Documents/SysMon/include/system.h

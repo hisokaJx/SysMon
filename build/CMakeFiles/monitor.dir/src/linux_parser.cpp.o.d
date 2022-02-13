@@ -1,5 +1,5 @@
 CMakeFiles/monitor.dir/src/linux_parser.cpp.o: \
- /home/james/CppND-System-Monitor-Project-Updated-JT/src/linux_parser.cpp \
+ /home/james/Documents/SysMon/src/linux_parser.cpp \
  /usr/include/stdc-predef.h /usr/include/dirent.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -162,7 +162,7 @@ CMakeFiles/monitor.dir/src/linux_parser.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/9/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
  /usr/include/c++/9/bits/fstream.tcc \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/linux_parser.h \
+ /home/james/Documents/SysMon/include/linux_parser.h \
  /usr/include/c++/9/regex /usr/include/c++/9/algorithm \
  /usr/include/c++/9/bits/stl_algo.h \
  /usr/include/c++/9/bits/algorithmfwd.h \

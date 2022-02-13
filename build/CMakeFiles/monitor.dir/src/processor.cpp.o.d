@@ -1,8 +1,8 @@
 CMakeFiles/monitor.dir/src/processor.cpp.o: \
- /home/james/CppND-System-Monitor-Project-Updated-JT/src/processor.cpp \
+ /home/james/Documents/SysMon/src/processor.cpp \
  /usr/include/stdc-predef.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/processor.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/linux_parser.h \
+ /home/james/Documents/SysMon/include/processor.h \
+ /home/james/Documents/SysMon/include/linux_parser.h \
  /usr/include/c++/9/fstream /usr/include/c++/9/istream \
  /usr/include/c++/9/ios /usr/include/c++/9/iosfwd \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \

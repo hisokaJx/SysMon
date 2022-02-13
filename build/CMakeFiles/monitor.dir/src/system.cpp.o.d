@@ -1,6 +1,6 @@
 CMakeFiles/monitor.dir/src/system.cpp.o: \
- /home/james/CppND-System-Monitor-Project-Updated-JT/src/system.cpp \
- /usr/include/stdc-predef.h /usr/include/unistd.h /usr/include/features.h \
+ /home/james/Documents/SysMon/src/system.cpp /usr/include/stdc-predef.h \
+ /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
@@ -142,9 +142,9 @@ CMakeFiles/monitor.dir/src/system.cpp.o: \
  /usr/include/c++/9/bits/stl_uninitialized.h \
  /usr/include/c++/9/bits/stl_vector.h \
  /usr/include/c++/9/bits/stl_bvector.h /usr/include/c++/9/bits/vector.tcc \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/process.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/processor.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/linux_parser.h \
+ /home/james/Documents/SysMon/include/process.h \
+ /home/james/Documents/SysMon/include/processor.h \
+ /home/james/Documents/SysMon/include/linux_parser.h \
  /usr/include/c++/9/fstream /usr/include/c++/9/istream \
  /usr/include/c++/9/ios /usr/include/c++/9/bits/ios_base.h \
  /usr/include/c++/9/bits/locale_classes.h \
@@ -218,7 +218,7 @@ CMakeFiles/monitor.dir/src/system.cpp.o: \
  /usr/include/c++/9/ratio /usr/include/c++/9/bits/parse_numbers.h \
  /usr/include/c++/9/bits/std_mutex.h \
  /usr/include/c++/9/bits/unique_lock.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/system.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/process.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/processor.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/linux_parser.h
+ /home/james/Documents/SysMon/include/system.h \
+ /home/james/Documents/SysMon/include/process.h \
+ /home/james/Documents/SysMon/include/processor.h \
+ /home/james/Documents/SysMon/include/linux_parser.h

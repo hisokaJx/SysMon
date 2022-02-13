@@ -1,4 +1,4 @@
-# Install script for directory: /home/james/CppND-System-Monitor-Project-Updated-JT
+# Install script for directory: /home/james/Documents/SysMon
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/james/CppND-System-Monitor-Project-Updated-JT/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/james/Documents/SysMon/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

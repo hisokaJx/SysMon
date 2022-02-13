@@ -1,5 +1,5 @@
 CMakeFiles/monitor.dir/src/ncurses_display.cpp.o: \
- /home/james/CppND-System-Monitor-Project-Updated-JT/src/ncurses_display.cpp \
+ /home/james/Documents/SysMon/src/ncurses_display.cpp \
  /usr/include/stdc-predef.h /usr/include/curses.h \
  /usr/include/ncurses_dll.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h /usr/include/stdint.h \
@@ -148,12 +148,12 @@ CMakeFiles/monitor.dir/src/ncurses_display.cpp.o: \
  /usr/include/c++/9/pstl/execution_defs.h /usr/include/c++/9/vector \
  /usr/include/c++/9/bits/stl_vector.h \
  /usr/include/c++/9/bits/stl_bvector.h /usr/include/c++/9/bits/vector.tcc \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/format.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/ncurses_display.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/process.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/system.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/processor.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/linux_parser.h \
+ /home/james/Documents/SysMon/include/format.h \
+ /home/james/Documents/SysMon/include/ncurses_display.h \
+ /home/james/Documents/SysMon/include/process.h \
+ /home/james/Documents/SysMon/include/system.h \
+ /home/james/Documents/SysMon/include/processor.h \
+ /home/james/Documents/SysMon/include/linux_parser.h \
  /usr/include/c++/9/fstream /usr/include/c++/9/istream \
  /usr/include/c++/9/ios /usr/include/c++/9/bits/ios_base.h \
  /usr/include/c++/9/bits/locale_classes.h \
@@ -213,4 +213,4 @@ CMakeFiles/monitor.dir/src/ncurses_display.cpp.o: \
  /usr/include/c++/9/shared_mutex /usr/include/c++/9/condition_variable \
  /usr/include/c++/9/bits/std_mutex.h \
  /usr/include/c++/9/bits/unique_lock.h \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/system.h
+ /home/james/Documents/SysMon/include/system.h

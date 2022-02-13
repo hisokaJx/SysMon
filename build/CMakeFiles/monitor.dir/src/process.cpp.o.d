@@ -1,6 +1,6 @@
 CMakeFiles/monitor.dir/src/process.cpp.o: \
- /home/james/CppND-System-Monitor-Project-Updated-JT/src/process.cpp \
- /usr/include/stdc-predef.h /usr/include/unistd.h /usr/include/features.h \
+ /home/james/Documents/SysMon/src/process.cpp /usr/include/stdc-predef.h \
+ /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
@@ -151,4 +151,4 @@ CMakeFiles/monitor.dir/src/process.cpp.o: \
  /usr/include/c++/9/bits/stl_relops.h \
  /usr/include/c++/9/bits/stl_vector.h \
  /usr/include/c++/9/bits/stl_bvector.h /usr/include/c++/9/bits/vector.tcc \
- /home/james/CppND-System-Monitor-Project-Updated-JT/include/process.h
+ /home/james/Documents/SysMon/include/process.h

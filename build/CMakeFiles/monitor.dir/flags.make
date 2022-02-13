@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/james/CppND-System-Monitor-Project-Updated-JT/include
+CXX_INCLUDES = -I/home/james/Documents/SysMon/include
 
 CXX_FLAGS = -Wall -Wextra -std=gnu++17
 
