@@ -10,34 +10,42 @@ using std::string;
 using std::to_string;
 using std::vector;
 
+Process::Process(int p, string u, string cmd, float cpu, string r, long int up) :
+    pid_{p},
+    user_{u},
+    cmd_{cmd},
+    cpu_{cpu},
+    ram_{r},
+    uptime_{up} {}
+
 // TODO: Return this process's ID
 int Process::Pid() {
-    return 0;
+    return pid_;
 }
 
 // TODO: Return this process's CPU utilization
 float Process::CpuUtilization() {
-    return 0;
+    return cpu_;
 }
 
 // TODO: Return the command that generated this process
 string Process::Command() {
-    return string();
+    return cmd_;
 }
 
 // TODO: Return this process's memory utilization
 string Process::Ram() {
-    return string();
+    return ram_;
 }
 
 // TODO: Return the user (name) that generated this process
 string Process::User() {
-    return string();
+    return user_;
 }
 
 // TODO: Return the age of this process (in seconds)
 long int Process::UpTime() {
-    return 0;
+    return uptime_;
 }
 
 // TODO: Overload the "less than" comparison operator for Process objects
